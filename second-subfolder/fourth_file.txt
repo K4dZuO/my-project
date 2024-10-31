@@ -1,1 +1,3 @@
 Fourth file text. The horses are glancy and proud animals.
+
+Wow, what's that? New row in file???
